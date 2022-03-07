@@ -45,7 +45,7 @@ def stream_markup(_, videoid):
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/alisha"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/AlishaSupport"
             )
         ],
     ]
