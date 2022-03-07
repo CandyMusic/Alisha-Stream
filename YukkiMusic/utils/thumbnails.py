@@ -94,7 +94,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 150),
-            "ABHIMANYU RANAWAT",
+            "DJ ALISHA",
             fill="white",
             stroke_width=2,
             stroke_fill="white",
@@ -136,7 +136,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 550),
-            f"Channel : {channel}",
+            f"Owner : Abhimanyu Singh Ranawat",
             (255, 255, 255),
             font=arial,
         )
