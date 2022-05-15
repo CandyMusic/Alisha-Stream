@@ -40,12 +40,12 @@ def stream_markup(_, videoid):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text=_["PL_B_3"], url=f"https://t.me/Itz_Venom_xD"
+                text=_["PL_B_3"], url=f"https://t.me/venom_hai_hum"
             ),
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/AlishaSupport"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Shayri_Music_Lovers"
             )
         ],
     ]
